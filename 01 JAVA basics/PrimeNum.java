@@ -11,7 +11,7 @@ public class PrimeNum {
             if(num%c==0) {
                 System.out.println("not Prime Num");
             }
-            else {
+            else{
                 c =c+1;
                 System.out.println("Prime Num");
             }

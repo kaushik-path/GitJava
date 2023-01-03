@@ -1,1 +1,0 @@
-String write = scan.nextLine();
