@@ -21,7 +21,21 @@ public class TypeCasting_Conversion {
         System.out.println("Type Conversion : " +NUM3);
 
         // UNICODE VALUES
-        // System.out.println("नमस्ते");
+        // System.out.println();
         
+        // RECALL ---
+        byte numByte = 21;
+        char numChar = 'b';
+        short numShort = 1235;
+        int numInt= 452;
+        float numFloat= 2.3f;
+        double numDouble = 23.2575522;
+        double answer = (numByte * numFloat) + (numChar-numDouble) / (numShort % numInt);
+        System.out.println(answer);
+        System.out.println((numByte * numFloat) + " " + (numChar-numDouble) + " " + (numShort % numInt) );
+
+        System.out.println("Test AUTOSAVE in VSCode");
+
+
     }
 }
