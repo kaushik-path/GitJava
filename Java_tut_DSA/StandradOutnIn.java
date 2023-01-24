@@ -16,7 +16,7 @@ public class StandradOutnIn {
         int num = input.nextInt(); // input decleared 
         System.out.println(num); // output the input varible
         float makrs = input.nextFloat();
-        System.out.println(marks);// output the input varible
+        System.out.println(makrs);// output the input varible
 
 
     }
