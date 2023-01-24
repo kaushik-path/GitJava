@@ -21,6 +21,7 @@ public class TypeCasting_Conversion {
         System.out.println("Type Conversion : " +NUM3);
 
         // UNICODE VALUES
-        System.out.println("Hello in Hindi : नमस्ते ");
+        // System.out.println("नमस्ते");
+        
     }
 }
