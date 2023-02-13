@@ -6,6 +6,7 @@ public class Data_types {
         int a =45;
         // how to write int like in millions or Billions
         int mORb = 1_800_000_000;
+        //
         float b= 54.3f;
         char c= 'k';
         long longIntegers = 5413531332135L;

@@ -13,9 +13,9 @@ public class StandradOutnIn {
         Scanner input = new Scanner(System.in); //-- Input method through Keyboard
         // System.out.println(input.nextLine());
 
-        int num = input.nextInt(); // input decleared 
+        int num = input.nextInt(); // input decleared As input
         System.out.println(num); // output the input varible
-        float makrs = input.nextFloat();
+        float makrs = input.nextFloat(); // input decleared As float
         System.out.println(makrs);// output the input varible
 
 
